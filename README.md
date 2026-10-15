@@ -15,7 +15,22 @@
 <img src="https://img.shields.io/badge/bugs_found-7-fbbf24?style=flat-square&labelColor=1e293b" />
 <img src="https://img.shields.io/badge/tests-5_passing-34d399?style=flat-square&labelColor=1e293b" />
 
+<br/><br/>
+
+<a href="https://drive.google.com/file/d/1o9PfoPIL9S7lAZAoPjoe7yNY22_gGgD3/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20video%20walkthrough-0f172a?style=for-the-badge&logo=googledrive&logoColor=38bdf8" alt="Watch the video walkthrough" />
+</a>
+
 </div>
+
+---
+
+## 🎥 Video walkthrough
+
+**[Watch on Google Drive →](https://drive.google.com/file/d/1o9PfoPIL9S7lAZAoPjoe7yNY22_gGgD3/view?usp=drive_link)**
+
+A ~9 minute walkthrough covering what bugs I found and how, the root cause of each, the fixes, and a live demo
+with both client accounts. (Hosted on Google Drive in place of Loom.)
 
 ---
 
